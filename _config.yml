@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p> Ameet Kumar </p>
+logo: /assets/img/Ameet.jpg
+
+description:
+  <p align="center">
+  <a href="https://github.com/srvameet">GitHub</a>
+  
+  <br>   
+  I'm learning AI & ML.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
